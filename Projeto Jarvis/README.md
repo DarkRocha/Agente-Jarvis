@@ -56,7 +56,7 @@ Para iniciar o agente em modo de desenvolvimento, você tem duas opções:
    python agent.py dev
    ```
 
-2. **Via Arquivo Batch (Recomendado):**
+2. **Via Arquivo Batch (Recomendado Criar):**
    Basta dar um duplo clique no arquivo:
    - `Jarvis.bat`
 
